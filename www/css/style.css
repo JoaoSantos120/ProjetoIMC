@@ -1,0 +1,29 @@
+/**/
+h1 {
+	color: white;
+}
+#container {
+	text-align: center;
+	background-color: #4682B4;
+	border-radius: 10px;
+	border: 2px solid #B0C4DE;
+	height: 100%;
+}
+#result {
+	border-radius: 10px;
+	width: 200px;
+	border: solid #B0C4DE;
+	color:  #4682B4;
+}
+input{
+	border-radius: 5px;
+	border: solid #B0C4DE;
+}
+label {
+	color: white;
+}
+
+#img {
+	border-radius: 5px;
+	border: solid  #B0C4DE;
+}
